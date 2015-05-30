@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "JobzLab",
+    "packageVersion": "0.0.1",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "calebrosario",
+    "githubRepository": "jobzlab"
+  }
+}
